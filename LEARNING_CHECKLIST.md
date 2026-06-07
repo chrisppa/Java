@@ -8,8 +8,8 @@
 
 ## Fundamentals
 
-- [ ] #1 Introduction to Java ☕ (00:00:00)
-- [ ] #2 Variables ❎ (00:10:58)
+- [x] #1 Introduction to Java ☕ (00:00:00)
+- [x] #2 Variables ❎ (00:10:58)
 - [ ] #3 User Input ⌨️ (00:31:30)
 - [ ] #4 ⭐ Mad Libs Game 📕 (00:47:25)
 - [ ] #5 Arithmetic 🧮 (00:54:08)

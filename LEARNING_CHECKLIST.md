@@ -26,13 +26,13 @@
 
 ## String Operations
 
-- [ ] #13 String Methods 🧵 (02:10:20)
-- [ ] #14 Substrings 📧 (02:18:55)
-- [ ] #15 ⭐ Weight Converter 🏋️ (02:27:00)
-- [ ] #16 Ternary Operator ❔ (02:35:19)
-- [ ] #17 ⭐ Temperature Converter 🌡️ (02:41:10)
-- [ ] #18 Enhanced Switches 💡 (02:49:05)
-- [ ] #19 ⭐ Calculator Program 🖩 (02:57:42)
+- [x] #13 String Methods 🧵 (02:10:20)
+- [x] #14 Substrings 📧 (02:18:55)
+- [x] #15 ⭐ Weight Converter 🏋️ (02:27:00)
+- [x] #16 Ternary Operator ❔ (02:35:19)
+- [x] #17 ⭐ Temperature Converter 🌡️ (02:41:10)
+- [x] #18 Enhanced Switches 💡 (02:49:05)
+- [x] #19 ⭐ Calculator Program 🖩 (02:57:42)
 
 ## Loops & Logic
 

@@ -17,12 +17,12 @@
 
 ## Control Flow
 
-- [ ] #7 If Statements 🤔 (01:09:00)
-- [ ] #8 Random Numbers 🔀 (01:22:28)
-- [ ] #9 Math Class 📐 (01:27:28)
-- [ ] #10 Printf 🖨️ (01:42:37)
-- [ ] #11 ⭐ Compound Interest Calculator 💸 (01:56:14)
-- [ ] #12 Nested If Statements 🎟️ (02:03:47)
+- [x] #7 If Statements 🤔 (01:09:00)
+- [x] #8 Random Numbers 🔀 (01:22:28)
+- [x] #9 Math Class 📐 (01:27:28)
+- [x] #10 Printf 🖨️ (01:42:37)
+- [x] #11 ⭐ Compound Interest Calculator 💸 (01:56:14)
+- [x] #12 Nested If Statements 🎟️ (02:03:47)
 
 ## String Operations
 

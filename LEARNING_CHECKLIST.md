@@ -45,11 +45,11 @@
 
 ## Methods & Functions
 
-- [ ] #26 Methods 📞 (04:04:27)
-- [ ] #27 Overloaded Methods 🍕 (04:19:51)
-- [ ] #28 Variable Scope 🏠 (04:25:59)
-- [ ] #29 ⭐ Banking Program 💰 (04:30:57)
-- [ ] #30 ⭐ Dice Roller Program 🎲 (04:51:26)
+- [x] #26 Methods 📞 (04:04:27)
+- [x] #27 Overloaded Methods 🍕 (04:19:51)
+- [x] #28 Variable Scope 🏠 (04:25:59)
+- [x] #29 ⭐ Banking Program 💰 (04:30:57)
+- [x] #30 ⭐ Dice Roller Program 🎲 (04:51:26)
 
 ## Arrays & Collections
 

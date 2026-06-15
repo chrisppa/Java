@@ -36,12 +36,12 @@
 
 ## Loops & Logic
 
-- [ ] #20 Logical Operators ❕ (03:09:58)
-- [ ] #21 While Loops ♾️ (03:21:23)
-- [ ] #22 ⭐ Number Guessing Game 🔢 (03:33:47)
-- [ ] #23 For Loops 🔂 (03:43:33)
-- [ ] #24 Break & Continue 🚦 (03:53:33)
-- [ ] #25 Nested Loops ➿ (03:55:45)
+- [x] #20 Logical Operators ❕ (03:09:58)
+- [x] #21 While Loops ♾️ (03:21:23)
+- [x] #22 ⭐ Number Guessing Game 🔢 (03:33:47)
+- [x] #23 For Loops 🔂 (03:43:33)
+- [x] #24 Break & Continue 🚦 (03:53:33)
+- [x] #25 Nested Loops ➿ (03:55:45)
 
 ## Methods & Functions
 
